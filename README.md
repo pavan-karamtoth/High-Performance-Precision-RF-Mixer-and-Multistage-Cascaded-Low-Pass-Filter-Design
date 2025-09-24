@@ -29,5 +29,5 @@ The system performs **frequency downconversion** of GHz signals into the **low-f
 
 ## 👨‍💻 Author  
 - **Karamtoth Pavan** – M.Tech Student, IIT Guwahati  
-- [pavan-karamtoth](#) | [Email](#) | [GitHub](#)  
+- [pavan-karamtoth](#) | [pavankaramtoth01@gmail.com](#)  
 
