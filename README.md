@@ -22,3 +22,12 @@ The system performs **frequency downconversion** of GHz signals into the **low-f
 - Hardware prototype demonstrated results consistent with LTspice simulations.  
 
 
+## 🚀 Future Improvements  
+- Integrating active mixer designs for higher conversion gain.  
+- Exploring programmable filter stages for reconfigurable bandwidth.  
+- Miniaturizing the hardware design for RF front-end applications.  
+
+## 👨‍💻 Author  
+- **Karamtoth Pavan** – M.Tech Student, IIT Guwahati  
+- [pavan-karamtoth](#) | [Email](#) | [GitHub](#)  
+
